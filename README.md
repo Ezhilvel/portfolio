@@ -1,4 +1,4 @@
-
+# Ezhilvel Malar Elangovan
 
 [About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
  | [Resume](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
@@ -16,10 +16,13 @@ Brands have promotions running on products throughout the year. Due to the compl
 
 A causal study on the profile updates (susch as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside network than a one month delayed update. And 60% of users did not update profile within one month of job switch. Built an end-to-end pipeline to identify the outdates user profiles on the platform.
 
+
+## Skills
+
 ```markdown
 Tech Stack
 
-## Programming 
+# Programming 
 - Python, R, C++, MATLAB, Lua
 
 # Data Management
@@ -37,8 +40,8 @@ Tech Stack
 # Productivity 
 - Git, Azure DevOps, JIRA, Airflow (CI/CD)
 
-## Design and Wireframing
-
+# Design and Wireframing
 - Photoshop, Illustrator, Figma, Balsamiq
+
 ```
 
