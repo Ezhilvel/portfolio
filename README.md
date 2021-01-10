@@ -1,25 +1,34 @@
-## Welcome to GitHub Pages
+## Ezhilvel Malar Elangovan
 
-You can use the [editor on GitHub](https://github.com/Ezhilvel/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Causal Estimation of Effectiveness of Promotions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, variety of offers and absence of structured experiments, its difficult to evaluated the effectivess of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
+
+### Identifying Outdated User Profiles
+
+A causal study on the profile updates (susch as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside network than a one month delayed update. And 60% of users did not update profile within one month of job switch. Built an end-to-end pipeline to identify the outdates user profiles on the platform.
 
 ```markdown
-Syntax highlighted code block
+Tech Stack
 
-# Header 1
-## Header 2
-### Header 3
+# Programming 
 
-- Bulleted
-- List
+- Python 
+- R
+- C++
+- Lua
+- SAS
 
-1. Numbered
-2. List
+# Data Management 
+
+1. SQL
+2. Hive
+3. Spark, Pyspark
+4. Presto
+
 
 **Bold** and _Italic_ and `Code` text
 
