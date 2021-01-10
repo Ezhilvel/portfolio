@@ -1,11 +1,12 @@
-## Ezhilvel Malar Elangovan
+
 
 [About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
-[Resume](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
-[Portfolio](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
-[Design](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+ | [Resume](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+ | [Portfolio](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+ | [Design](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
 
-# Projects
+## Projects
+
 
 ### Causal Estimation of Effectiveness of Promotions
 
@@ -18,7 +19,7 @@ A causal study on the profile updates (susch as job switch) and the network inte
 ```markdown
 Tech Stack
 
-# Programming 
+## Programming 
 - Python, R, C++, MATLAB, Lua
 
 # Data Management
@@ -34,8 +35,10 @@ Tech Stack
 - Tableau, PowerBI
 
 # Productivity 
-- Git, Azure DevOps, JIRA, Airflow
+- Git, Azure DevOps, JIRA, Airflow (CI/CD)
 
-# 
+## Design and Wireframing
+
+- Photoshop, Illustrator, Figma, Balsamiq
 ```
 
