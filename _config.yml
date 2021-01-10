@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: ezhilvel
-description: Product Data Scientist/ Designer
-github.is_project_page: False
+description: [About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+ | [Resume](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+ | [Portfolio](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+ | [Design](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+
+site.github.is_project_page: False
