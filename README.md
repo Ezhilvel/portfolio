@@ -1,9 +1,11 @@
-# Ezhilvel Malar Elangovan
-
-[About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+<div style="text-align: right">
+ 
+ [About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
  | [Resume](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
  | [Portfolio](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
  | [Design](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+
+</div>
 
 ## Projects
 
