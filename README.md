@@ -1,7 +1,11 @@
 ## Ezhilvel Malar Elangovan
 
-[About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[About Me](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+[Resume](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+[Portfolio](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
+[Design](https://github.com/Ezhilvel/portfolio/edit/main/README.md) 
 
+# Projects
 
 ### Causal Estimation of Effectiveness of Promotions
 
@@ -15,32 +19,23 @@ A causal study on the profile updates (susch as job switch) and the network inte
 Tech Stack
 
 # Programming 
+- Python, R, C++, MATLAB, Lua
 
-- Python 
-- R
-- C++
-- Lua
-- SAS
+# Data Management
+- SQL, Hive, Spark, Pyspark, Presto, Pandas, dply
 
-# Data Management 
+# Data Visualization 
+- Plotly, Streamlit, Bokeh, D3.js, ShinyR
 
-1. SQL
-2. Hive
-3. Spark, Pyspark
-4. Presto
+# Machine Learning
+- SK-Learn, SciPy, TensorFlow, PyTorch, CausalML, SHAP
+ 
+# Dashboard
+- Tableau, PowerBI
 
+# Productivity 
+- Git, Azure DevOps, JIRA, Airflow
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ezhilvel/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
