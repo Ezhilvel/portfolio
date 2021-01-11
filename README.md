@@ -10,7 +10,7 @@
 ## Projects
 
 
-### [Causal Estimation of Effectiveness of Promotions](https://drive.google.com/file/d/1xBxXan-ZR17WQmIDku_YSJwd_tlFP8W8/view?usp=sharing)
+### [Causal Estimation of Effectiveness of Promotions](https://drive.google.com/file/d/1_bHOuhTY84xITV7TvfpCYR0j2VfAtVrO/view?usp=sharing)
 
 Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, variety of offers and absence of structured experiments, its difficult to evaluated the effectivess of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
 
