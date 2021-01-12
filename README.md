@@ -2,9 +2,9 @@
  
    <a href = "https://www.linkedin.com/in/ezhilvelme/" > About Me </a> -
    <a href = "https://drive.google.com/file/d/1LAy5Ol2dtCn14x_uI9mE7Lu4mIqhyvba/view?usp=sharing" > Resume </a> - 
-   <a href = "https://ezhilvel.github.io/portfolio/" > Portfolio </a> -
+   <a href = "https://github.com/Ezhilvel" > GitHub </a> -
    <a href = "https://www.behance.net/ezhilvelme" > Design </a> -
-   <a href = "https://airhockey-love2d.herokuapp.com/" > Try Game! </a> 
+   <a href = "https://airhockey-love2d.herokuapp.com/" > Try Air Hockey! </a> 
 
 </div>
 
