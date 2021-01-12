@@ -20,30 +20,29 @@ Brands have promotions running on products throughout the year. Due to the compl
 A causal study on the profile updates (susch as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside network than a one month delayed update. And 60% of users did not update profile within one month of job switch. Built an end-to-end pipeline to identify the outdates user profiles on the platform.
 
 
-## Skills
+## Tech Stack
 
 ```markdown
-Tech Stack
 
-## Programming 
+### Programming 
 Python, R, C++, MATLAB, Lua
 
-## Data Management
+### Data Management
 SQL, Hive, Spark, Pyspark, Presto, Pandas, dply
 
-## Data Visualization 
+### Data Visualization 
 Plotly, Streamlit, Bokeh, D3.js, ShinyR
 
 ## Machine Learning
 SK-Learn, SciPy, TensorFlow, PyTorch, CausalML, SHAP
  
-## Dashboard
+### Dashboard
 Tableau, PowerBI
 
-## Productivity 
+### Productivity 
 Git, Azure DevOps, JIRA, Airflow (CI/CD)
 
-## Design and Wireframing
+### Design and Wireframing
 Photoshop, Illustrator, Figma, Balsamiq
 
 ```
