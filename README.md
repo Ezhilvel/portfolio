@@ -13,11 +13,20 @@
 
 ### [Causal Estimation of Effectiveness of Promotions]()
 
-Retail Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, variety of offers and absence of structured experiments, its difficult to evaluated the effectivess of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
+Retail Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, a variety of offers, and the absence of structured experiments, it's difficult to evaluate the effectiveness of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
 
 ### [Identifying Outdated User Profiles]()
 
-A causal study on the profile updates (susch as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside network than a one month delayed update. And 60% of users did not update profile within one month of job switch. Built an end-to-end pipeline to identify the outdates user profiles on the platform.
+A causal study on the profile updates (such as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside the network than a one month delayed update. And 60% of users did not update their profile within one month of a job switch. Built an end-to-end pipeline to identify the outdated user profiles on the platform.
+
+### [Revenue Optimization using Media Mix Model]()
+
+A typical retail company invests around 10% of sales revenue into future marketing initiatives. The Marketing/Media Mix Model (MMM) provides the return on spend for these initiatives. However, the raw data needs to be transformed into ad-stock transforms to ensure the delayed effect and the response saturation are captured.
+
+### [Patient Readmission Prediction]()
+
+If a patient is re-admitted to a medical facility where he was treated, for the same complaint within the 60 days of their discharge, it is flagged as re-admission. Medical facilities within the US that have a re-admission rate above the national average are penalized. We built a solution to predict in advance, at the time of discharge, the propensity for the patient to be re-admitted. Also, local variable importance, using Shapley value provides detailed insights into 
+the prime factors could be addressed to potentially prevent readmission.
 
 
 ## Tech Stack
