@@ -11,11 +11,11 @@
 ## Projects
 
 
-### [Causal Estimation of Effectiveness of Promotions](https://drive.google.com/file/d/1_bHOuhTY84xITV7TvfpCYR0j2VfAtVrO/view?usp=sharing)
+### [Causal Estimation of Effectiveness of Promotions]()
 
 Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, variety of offers and absence of structured experiments, its difficult to evaluated the effectivess of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
 
-### [Identifying Outdated User Profiles](https://drive.google.com/file/d/1xBxXan-ZR17WQmIDku_YSJwd_tlFP8W8/view?usp=sharing)
+### [Identifying Outdated User Profiles]()
 
 A causal study on the profile updates (susch as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside network than a one month delayed update. And 60% of users did not update profile within one month of job switch. Built an end-to-end pipeline to identify the outdates user profiles on the platform.
 
