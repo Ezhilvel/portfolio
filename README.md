@@ -13,7 +13,7 @@
 
 ### [Causal Estimation of Effectiveness of Promotions]()
 
-Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, variety of offers and absence of structured experiments, its difficult to evaluated the effectivess of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
+Retail Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, variety of offers and absence of structured experiments, its difficult to evaluated the effectivess of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
 
 ### [Identifying Outdated User Profiles]()
 
@@ -24,25 +24,25 @@ A causal study on the profile updates (susch as job switch) and the network inte
 
 ```markdown
 
-### Programming 
+# Programming 
 Python, R, C++, MATLAB, Lua
 
-### Data Management
+# Data Management
 SQL, Hive, Spark, Pyspark, Presto, Pandas, dply
 
-### Data Visualization 
+# Data Visualization 
 Plotly, Streamlit, Bokeh, D3.js, ShinyR
 
-## Machine Learning
+# Machine Learning
 SK-Learn, SciPy, TensorFlow, PyTorch, CausalML, SHAP
  
-### Dashboard
+# Dashboard
 Tableau, PowerBI
 
-### Productivity 
+# Productivity 
 Git, Azure DevOps, JIRA, Airflow (CI/CD)
 
-### Design and Wireframing
+# Design and Wireframing
 Photoshop, Illustrator, Figma, Balsamiq
 
 ```
