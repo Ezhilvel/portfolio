@@ -11,9 +11,9 @@
 
 ## Identifying Outdated User Profiles
 
-![](./images/user%20profiles.png) 
-
 A causal study on the profile updates (such as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside the network than a one month delayed update. And 60% of users did not update their profile within one month of a job switch. Built an end-to-end pipeline to identify the outdated user profiles on the platform.
+
+![](./images/user%20profiles.png) 
 
 1. Background & Analysis
 2. Design
