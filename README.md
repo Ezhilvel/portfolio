@@ -11,7 +11,7 @@
 ## Projects
 
 
-### [Causal Estimation of Effectiveness of Promotions]()
+### [Causal Estimation of Effectiveness of Promotions](https://ezhilvel.github.io/portfolio/causalml/)
 
 Retail Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, a variety of offers, and the absence of structured experiments, it's difficult to evaluate the effectiveness of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
 
