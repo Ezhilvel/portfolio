@@ -13,6 +13,8 @@
 
 Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, variety of offers and absence of structured experiments, its difficult to evaluated the effectivess of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
 
+![alt text](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bsnsports.com%2F&psig=AOvVaw3P28Rn_f1cy1KSPg_DTInA&ust=1610691813708000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjwoN3kmu4CFQAAAAAdAAAAABAE)
+
 1. Background & Analysis
 2. Framing Business Problem
 3. Data Preparation & Control Features
