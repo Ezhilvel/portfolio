@@ -15,7 +15,7 @@
 
 Retail Brands have promotions running on products throughout the year. Due to the complexity in terms of the number of products, a variety of offers, and the absence of structured experiments, it's difficult to evaluate the effectiveness of promotions. We built a machine learning model to quantify this using historical sales data and CausalML.
 
-### [Identifying Outdated User Profiles](https://ezhilvel.github.io/portfolio/profile-updates/)
+### [Identifying Outdated User Profiles](https://ezhilvel.github.io/portfolio/profile-updates/) 
 
 A causal study on the profile updates (such as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside the network than a one month delayed update. And 60% of users did not update their profile within one month of a job switch. Built an end-to-end pipeline to identify the outdated user profiles on the platform.
 
