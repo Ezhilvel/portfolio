@@ -1,4 +1,4 @@
-<div style="text-align: right">
+<div style="text-align: left">
  
    <a href = "https://www.linkedin.com/in/ezhilvelme/" > About Me </a> -
    <a href = "https://drive.google.com/file/d/1LAy5Ol2dtCn14x_uI9mE7Lu4mIqhyvba/view?usp=sharing" > Resume </a> - 
@@ -8,12 +8,11 @@
 
 </div>
 
+![](./images/user%20profiles.png) 
 
 ## Identifying Outdated User Profiles
 
 A causal study on the profile updates (such as job switch) and the network interaction showed that timely updates lead to connecting with 1.5x more users outside the network than a one month delayed update. And 60% of users did not update their profile within one month of a job switch. Built an end-to-end pipeline to identify the outdated user profiles on the platform.
-
-![](./images/user%20profiles.png) 
 
 1. Background & Analysis
 2. Design
