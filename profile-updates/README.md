@@ -24,6 +24,8 @@ A causal study on the profile updates (such as job switch) and the network inter
 Jobs Co is a professional networking platform, that helps it's users connect with people, find job and seek talent. On average 2-3% of it's memeber base were foudn to switch job every month. Close to 70% these users do not update their job switch within one month and around 10% upto a year. Until then these profiles are marked as uptdated. This leads to a poor quality data yielding in poor performance of recomendation models and inaccurate metrics.
 Also, a user with an updated profile is able to connect with 1.5x collagues from the new company compared to users whose profile is outdated upto a month.
 
+![](./images/incremental%20connection.png) 
+
 ### Framing Problem Statement
 
 Business Problem: Identify the outdates memeber profiles
